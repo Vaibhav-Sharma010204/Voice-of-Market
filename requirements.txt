@@ -146,6 +146,12 @@ python-dotenv==1.2.2
 python-louvain==0.16
 python-multipart==0.0.26
 pytz==2026.1.post1
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+networkx
 pyvis==0.3.2
 pyzmq==27.0.1
 random-user-agent==1.0.1
